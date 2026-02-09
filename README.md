@@ -9,7 +9,7 @@
 <p align="center">
   Results-driven developer with 8+ years building high-performance WordPress sites, custom themes/plugins (ACF, Gutenberg), and modern full-stack apps with React/Next.js. <br>
   Maintained 100+ websites with 99.9% uptime • Reduced load times & boosted Core Web Vitals • 50+ freelance projects with 5-star feedback. <br>
-  Currently in Frankfurt, Germany — open to remote work worldwide. Let's create fast, secure & user-friendly digital products! 🚀
+  Open to remote work worldwide. Let's create fast, secure & user-friendly digital products! 🚀
 </p>
 
 <p align="center">
